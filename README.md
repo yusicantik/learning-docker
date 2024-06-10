@@ -1,7 +1,7 @@
 #learning-docker
 
 - cmd run new container welcome1
-<img width="686" alt="cmd run docker" src="https://github.com/yusicantik/learning-docker/assets/76909692/63568daa-5374-4fe3-a1c7-618a79f43431">
+<img width="510" alt="cmd run docker" src="https://github.com/yusicantik/learning-docker/assets/76909692/a25e81f1-c469-4711-b2fd-671ccaf032b5">
 <img width="960" alt="docker-welcome1" src="https://github.com/yusicantik/learning-docker/assets/76909692/2b24912d-7650-4773-8d5f-0c60f96d6507">
 
 
