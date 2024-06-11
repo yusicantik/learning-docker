@@ -1,5 +1,6 @@
 - create a golang project that serve http
-<img width="960" alt="create a golang project" src="https://github.com/yusicantik/learning-docker/assets/76909692/9c8638eb-f75e-49e9-893d-58c13db1a36d">
+<img width="960" alt="image" src="https://github.com/yusicantik/learning-docker/assets/76909692/734b51e7-96dd-4a5c-851e-69442c1de923">
+<img width="960" alt="image" src="https://github.com/yusicantik/learning-docker/assets/76909692/c9923705-903f-4a91-86c7-5b7ff84af468">
 <img width="960" alt="expose to port 8080" src="https://github.com/yusicantik/learning-docker/assets/76909692/3e0cc087-5d26-4484-8557-a16ac5a1ca61">
 
 
