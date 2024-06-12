@@ -26,7 +26,17 @@
 
 
 - F
+<img width="644" alt="image" src="https://github.com/yusicantik/learning-docker/assets/76909692/d9ee4ac3-46fa-4376-997b-5018847f309e">
+<img width="643" alt="image" src="https://github.com/yusicantik/learning-docker/assets/76909692/90560264-58aa-48c8-9522-c843760ce950">
+<img width="649" alt="image" src="https://github.com/yusicantik/learning-docker/assets/76909692/5e31c408-8bb9-4032-93ef-e0e4bdfd6304">
+<img width="960" alt="image" src="https://github.com/yusicantik/learning-docker/assets/76909692/3d4a7031-053b-49f8-9dcf-574bd5bb8d49">
+<img width="960" alt="image" src="https://github.com/yusicantik/learning-docker/assets/76909692/c64fa13b-b97f-4408-b0e2-36536eb2a2d3">
 
+
+
+- G
+<img width="960" alt="image" src="https://github.com/yusicantik/learning-docker/assets/76909692/113ffda4-cc7c-4c2d-bd24-eb3bc6326a36">
+<img width="960" alt="image" src="https://github.com/yusicantik/learning-docker/assets/76909692/d3288f1c-6796-420a-9f91-e645b0468b46">
 
 
 
