@@ -1,21 +1,38 @@
-- A. Prepare a single database "{username}_access", A. single table "{username}_access_log" B. with single column named "timestamp" with data type timestamp or datetime
-- B. Use existing golang project (from Project 1) that serve http and try to connect to postgres (or any) databases with additional
-Path "/ping", Do ping to database and show the result
-Output or return to browser as string or html Success = "Pong!", Failed = "Ouch!”
-Print to console or log Success = "Ping successful", Failed = "Ping failed"
-Insert or record a new data timestamp with "NOW()" or current timestamp whenever /ping accessed. E.g., new record current timestamp 2024-01-31 19:55:55
-Start HTTP on port 77 (or 78 if your chrome blocked the port)
-- C. Create Dockerfile to build and run your golang project dockerfile
-build
-run
-- D. Create docker-compose.yml and instruct to run 2 containers
-Golang Project (container name: "gosvc_container"), expose container port 77 (or 78) to host port 4331 Postgres image postgres:latest (container name: "dbsvc_container")
-Pastikan env postgres database "{username}_access"
-- E. Make sure the golang project can connect to postgresql and postgresql data is persistent
-network name = "net_mycompose_{username}" and volume name = "vol_mycompose_{username}"
-You can check via pgadmin and expose the port 5432 (bebas) to host.
-- F. Run Docker compose with name "project-my-compose"
-Make sure you can access http://localhost:4331 and show a wise word
-Make sure you can access http://localhost:4331/ping and show Success (with success ping to database) and new data inserted in your database
-- G. Check logs of your each container in "project-my-compose"
-- H. Masukkan semua files project & screenshot hasilnya ke repository github kalian {username}/learning-docker Folder project-my-compose
+A. Prepare a single database "{username}_access"
+
+<img width="263" alt="image" src="https://github.com/yusicantik/learning-docker/assets/76909692/f27c30dc-ac07-4120-b0eb-00e1143a0c7e">
+
+<img width="960" alt="image" src="https://github.com/yusicantik/learning-docker/assets/76909692/04219b69-8aac-4604-aad0-415760bec725">
+
+<img width="960" alt="image" src="https://github.com/yusicantik/learning-docker/assets/76909692/f9f9fca3-ba87-4169-b6b3-7b850b3bfe51">
+
+
+B. Use existing golang project (from Project 1) that serve http and try to connect to postgres (or any) databases with additional
+<img width="656" alt="image" src="https://github.com/yusicantik/learning-docker/assets/76909692/acbba2ff-82b0-4e68-8a51-c34b24c93d75">
+
+
+C. Create Dockerfile to build and run your golang project dockerfile
+<img width="658" alt="image" src="https://github.com/yusicantik/learning-docker/assets/76909692/421f294a-133b-4a41-a5ff-015d3170a8ca">
+
+
+
+
+<img width="653" alt="image" src="https://github.com/yusicantik/learning-docker/assets/76909692/67d0aec8-1265-4405-a1d7-0fe5c61cc9e8">
+
+
+
+
+
+D. Create docker-compose.yml and instruct to run 2 containers
+<img width="656" alt="image" src="https://github.com/yusicantik/learning-docker/assets/76909692/c73178e1-24c9-4973-96e4-ee6a2aee9ef2">
+<img width="656" alt="image" src="https://github.com/yusicantik/learning-docker/assets/76909692/357ccefa-2f20-40fc-882b-6747049d3ece">
+<img width="656" alt="image" src="https://github.com/yusicantik/learning-docker/assets/76909692/dd0dde76-b98a-4526-9517-dc4b2a116521">
+
+E. Make sure the golang project can connect to postgresql and postgresql data is persistent
+
+
+
+F. Run Docker compose with name "project-my-compose"
+
+G. Check logs of your each container in "project-my-compose"
+
